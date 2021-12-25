@@ -11,4 +11,4 @@ hello lepingyang! hello git!
 hello lepingyang! hello git!
 hello lepingyang! hello git!
 hello lepingyang! hello git!
-hello lepingyang! hello git!
+hello lepingyang! hello git! hot-fix test
